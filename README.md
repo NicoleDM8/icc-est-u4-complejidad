@@ -12,6 +12,7 @@
 **Fecha:** 14/03/26
 
 **Descripción:** Creamos el proyeco y subimos a GitHub
+
 ---
 
 ## 2. icc-est-u4-complejidad
